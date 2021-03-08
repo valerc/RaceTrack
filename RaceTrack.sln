@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceTrack.Common", "RaceTrack.Common\RaceTrack.Common.csproj", "{396C0B4C-0B53-462B-9352-9F1FB7E98422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceTrackTest", "RaceTrackTest\RaceTrackTest.csproj", "{AA74EDA9-D75B-4BA3-ACD4-FECB565F5311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{396C0B4C-0B53-462B-9352-9F1FB7E98422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{396C0B4C-0B53-462B-9352-9F1FB7E98422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{396C0B4C-0B53-462B-9352-9F1FB7E98422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA74EDA9-D75B-4BA3-ACD4-FECB565F5311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA74EDA9-D75B-4BA3-ACD4-FECB565F5311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA74EDA9-D75B-4BA3-ACD4-FECB565F5311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA74EDA9-D75B-4BA3-ACD4-FECB565F5311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
